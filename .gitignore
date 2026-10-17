@@ -1,0 +1,7 @@
+video/
+shots/
+solo/
+dist/
+node_modules/
+*.log
+figures/**/*.html
